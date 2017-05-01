@@ -1,5 +1,3 @@
-// import fs from 'fs';
-// import net from 'net';
 var fs = require("fs");
 var net = require("net");
 var filename = process.argv[2];
